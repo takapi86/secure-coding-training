@@ -30,6 +30,7 @@ services:
     ports:
       - 3306:3306
     volumes:
+      - ./initdb.d/createdb.sql:/docker-entrypoint-initdb.d/createdb.sql:ro
       - mysql_data:/var/lib/mysql
 volumes:
   mysql_data:
