@@ -526,10 +526,9 @@ https://www.ipa.go.jp/files/000017316.pdf
 - 静的スキャン
   - Java・・・Jtest
   - Ruby・・・brakeman
-  - PHP・・・良いツールがあれば教えてください
 - 動的スキャン
   - AppScan, Owasp Zap, Vaddyなど
-- ライブラリ脆弱性チェック（GitHubセキュリティアラートなど）
+- ライブラリ脆弱性チェック（GitHubセキュリティアラート、Trivy）
 - 定期的な外部の診断
   - 外部のセキュリティ診断会社に依頼してチェックしてもらう
 
