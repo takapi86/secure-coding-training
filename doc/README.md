@@ -136,6 +136,7 @@ nameの内容が更新され、レコードの内容を改ざんすることが�
 # デモ
 
 ## SQLインジェクションの再現からコードの修正まで
+https://www.youtube.com/watch?v=iNFnNO3sb4k
 
 ---
 
@@ -313,6 +314,7 @@ https://www.ipa.go.jp/files/000017320.pdf
 # デモ
 
 ## XSSの再現からコードの修正まで
+https://www.youtube.com/watch?v=qUcfaFQyw68
 
 ---
 
@@ -466,6 +468,7 @@ https://www.ipa.go.jp/security/awareness/vendor/programmingv2/contents/301.html
 # デモ
 
 ## CSRFの再現からコードの修正まで
+https://www.youtube.com/watch?v=BSeZ-z3Cz4w
 
 ---
 
