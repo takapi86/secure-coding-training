@@ -143,8 +143,6 @@ nameの内容が更新され、レコードの内容を改ざんすることが�
   - Ruby💎・・・Ruby on Rails（Active Record）
   - PHP🐘・・・Laravel（Eloquent）
 
-※ 対策する際には必ず文字コード意識する必要がありますが、今回説明は省略します。
-
 ---
 
 # デモ
