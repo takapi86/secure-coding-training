@@ -302,7 +302,7 @@ https://www.ipa.go.jp/files/000017320.pdf
 <a href="javascript:alert(document.cookie);">戻る</a>
 ```
 
-※ `alert(document.cookie);` は、一例で、ここに好きなスクリプトを埋め込むことができます。
+※ `alert(document.cookie);` は、あくまでも一例で、ここに好きなスクリプトを埋め込むことができます。
 
 ---
 
