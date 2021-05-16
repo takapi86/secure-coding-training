@@ -389,9 +389,6 @@ if (preg_match("/\Ahttps?:/", $url) !== 1) {
   - 根本解決にはならないので、必ずエスケープして対策を行うようにしましょう
 - Session Cookie にhttponly属性をつける
   - スクリプトからクッキーの値を読み込めないようにする
-- Content Security Policy
-  - 特別な値をレスポンスヘッダで返すようにし、XSSの影響を軽減する
-  - 興味があったらこちらを見てみてください https://developer.mozilla.org/ja/docs/Web/HTTP/CSP
 
 ---
 
