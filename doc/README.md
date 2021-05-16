@@ -515,7 +515,7 @@ https://www.ipa.go.jp/files/000017316.pdf
 - 実装時、コードレビュー時のセキュリティチェック（今回はここのお話）
   - チェックリストがあると良い
 - 静的スキャン
-  - Java・・・Jtest
+  - Java・・・JTest
   - Ruby・・・brakeman
 - 動的スキャン
   - AppScan, Owasp Zap, Vaddyなど
